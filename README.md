@@ -3,7 +3,7 @@
     <img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://angular.io/" target="blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="250" height="250">
   </a>
